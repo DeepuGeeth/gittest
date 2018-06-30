@@ -1,1 +1,2 @@
-New Script
+#!/bin/bash
+echo "Hello world";
